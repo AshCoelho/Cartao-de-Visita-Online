@@ -18,23 +18,27 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="projeto DevLinks" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Foram utilizadas as seguintes tecnologias neste projeto:
 
 - HTML e CSS
 - JavaScript
 - Git e Github
 - Figma
 
+## 📈 Desenvolvimento
+
+Durante a criação do projeto, senti uma dificuldade inicial quando me deparei com termos desconhecidos. No entanto, essa experiência acabou sendo bastante enriquecedora, pois me permitiu absorver muito conhecimento, que era justamente o objetivo principal do projeto. A cada obstáculo superado, adquiri novas habilidades e compreensões que contribuíram significativamente para o meu desenvolvimento profissional e pessoal. No final, a superação desses desafios não apenas enriqueceu o projeto, mas também enriqueceu minha própria jornada de aprendizado.
+
 ## 💻 Projeto
 
 DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://ashcoelho.github.io/Projeto/)
 
 - [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
